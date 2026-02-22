@@ -14,12 +14,4 @@
 - ⚙️ **Проєкт Visual Studio:** [ConsoleApplication1.vcxproj](./ConsoleApplication1.vcxproj)
 - 🗂️ **Фільтри проєкту:** [ConsoleApplication1.vcxproj.filters](./ConsoleApplication1.vcxproj.filters)
 
-## Запуск
-1. Відкрийте файл рішення: [ConsoleApplication1.sln](./ConsoleApplication1.sln)
-2. Запустіть проєкт (**Local Windows Debugger**)
-3. У консоль введіть:
-   - спочатку `n`
-   - потім `n` чисел (можна в один рядок)
-
-### Приклади вводу
-**IF (є елемент < -3):**
+*
